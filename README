@@ -1,0 +1,4 @@
+Drivers for configuring Ubuntu on a Lenovo Yoga 13
+===
+
+To install, run ./update_drivers.sh
