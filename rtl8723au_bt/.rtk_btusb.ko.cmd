@@ -1,1 +1,0 @@
-cmd_/home/bprinty/software/drivers/rtl8723au_bt/rtk_btusb.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-45-generic/scripts/module-common.lds --build-id  -o /home/bprinty/software/drivers/rtl8723au_bt/rtk_btusb.ko /home/bprinty/software/drivers/rtl8723au_bt/rtk_btusb.o /home/bprinty/software/drivers/rtl8723au_bt/rtk_btusb.mod.o
